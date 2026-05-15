@@ -106,6 +106,13 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      math: false
 
 jekyll-archives:
   enabled: [categories, tags]
