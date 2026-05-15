@@ -73,6 +73,7 @@ pwa:
     enabled: true
 plugins:
   - jekyll-archives
+  - jekyll-paginate
 collections:
   tabs:
     output: true
@@ -99,3 +100,5 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
+    paginate: 10
+paginate_path: "/page:num/"
