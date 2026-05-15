@@ -4,7 +4,7 @@ title: "VulnWebView - AllSafe"
 date: 2026-05-08 00:00:00 +0200
 categories: [Android, Allsafe]
 tags: [webview, jadx, adb]
-permalink: /posts/vulnwebview-allsafe/
+permalink: /vulnwebview-allsafe/
 ---
 
 ### Objective
