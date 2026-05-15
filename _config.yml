@@ -60,6 +60,7 @@ avatar: assets/download (10).jpg
 social_preview_image:
 
 toc: true
+future: true
 
 comments:
   provider:
