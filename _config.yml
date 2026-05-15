@@ -88,11 +88,16 @@ assets:
 pwa:
   enabled: true
   cache:
-    e
+  enabled: true
+
 collections:
   tabs:
     output: true
     sort_by: order
+
+    
+ plugins:
+  - jekyll-archives
 
 defaults:
   - scope:
